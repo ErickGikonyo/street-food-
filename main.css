@@ -7,10 +7,11 @@ div {
     border-width:2px ;
     border-style: none;
     height: 50vh ;
-    width:fit-content;
+    width: fit-content;
     padding: 5px;
     color: #EAAB1B,#6CB840;
     font-family: poppins;
+
 }
 #al{
     height: 200px;
@@ -21,16 +22,18 @@ div {
     color: black;
 }
 #all{
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     margin-right: 60%;
 }
 #eat{
     color: coral;
 }
 #intro{
-    margin-right: 10%;
-    width: fit-content;
+    margin-right: 15%;
+    width: 700px;
+    max-width:fit-content;
+    
 }
 button{
     background-color: rgb(24, 202, 24);
@@ -42,22 +45,31 @@ button{
     margin-right: 60%;
 }
 #menu{
-    font-size: 28px;
+    font-size: 15px;
     font-weight: bold;
 }
 #street{
     font-size: x-large;
     color: rgb(7, 161, 7);
 }
+
+}
 #first{
     background-color: rgb(194, 180, 180);
     text-align: left;
+    width: fit-content;
+    height: fit-content;
 
 
+}
+#images{
+    margin-left: 60%;
 }
 #second {
     background-color: white;
     display: block;
+    width: fit-content;
+    height: fit-content;
 }
 #eat{
     margin-left: 60%;
@@ -66,11 +78,41 @@ button{
     margin-left: 60%;
 }
 #third {
+    margin-top: 400px;
     background-color: rgb(196, 181, 181);
 }
 #fourth {
     background-color: rgba(0, 128, 0, 0.322);
+    margin-top: 400px;
 }
 #five {
     background-color: antiquewhite;
+    margin-top: 400px;
+}
+#bp1{
+    text-align: center;
+    margin-right: 60%;
+}
+#b1{
+    height: 80px;
+    width: 100px;
+    margin-right: 60%;
+}
+#b2{
+    height: 80px;
+    width: 100px;
+    margin-right: 60%;
+}
+#bp2{
+    text-align: center;
+margin-right: 60%;
+}
+#b3{
+    height: 80px;
+    width: 100px;
+    margin-left: 60%;  
+}
+#bp3{
+    text-align: center;
+    margin-left: 60%;
 }
