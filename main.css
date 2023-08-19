@@ -1,0 +1,26 @@
+body {
+    padding: 5%;
+}
+div {
+    border-radius: 5%;
+    border-color: black;
+    border-width:2px ;
+    border-style: dashed;
+    height:50% ;
+    width:50% ;
+}
+#first{
+    background-color: rgb(148, 134, 134);
+}
+#second {
+    background-color: white;
+}
+#third {
+    background-color: rgb(196, 181, 181);
+}
+#four {
+    background-color: rgba(0, 128, 0, 0.322);
+}
+#five {
+    background-color: antiquewhite;
+}
