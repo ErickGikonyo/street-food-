@@ -6,11 +6,35 @@ div {
     border-color: black;
     border-width:2px ;
     border-style: dashed;
-    height:50% ;
-    width:50% ;
+    height: 50vh ;
+    width:fit-content;
+    padding: 5px;
+}
+#intro{
+    margin-right: 10%;
+    width: fit-content;
+}
+button{
+    background-color: rgb(24, 202, 24);
+    color: white;
+    width: 120px;
+    height: 100;
+    border-radius: 10px;
+    border-color:rgb(24,202,24) ;
+}
+#menu{
+    font-size: small;
+    font-weight: bold;
+}
+#street{
+    font-size: x-large;
+    color: rgb(7, 161, 7);
 }
 #first{
-    background-color: rgb(148, 134, 134);
+    background-color: rgb(194, 180, 180);
+    text-align: left;
+
+
 }
 #second {
     background-color: white;
