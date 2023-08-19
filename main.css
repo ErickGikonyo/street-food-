@@ -15,10 +15,18 @@ div {
 #al{
     height: 200px;
 }
+#star{
+    height: 60px;
+    width: 60px;
+    color: black;
+}
 #all{
     height: 400px;
     width: 400px;
     margin-right: 60%;
+}
+#eat{
+    color: coral;
 }
 #intro{
     margin-right: 10%;
@@ -28,13 +36,13 @@ button{
     background-color: rgb(24, 202, 24);
     color: white;
     width: 120px;
-    height: 100;
+    height: 150;
     border-radius: 10px;
     border-color:rgb(24,202,24) ;
     margin-right: 60%;
 }
 #menu{
-    font-size: small;
+    font-size: 28px;
     font-weight: bold;
 }
 #street{
