@@ -16,7 +16,9 @@ div {
     height: 200px;
 }
 #all{
-    height: 200px;
+    height: 400px;
+    width: 400px;
+    margin-right: 60%;
 }
 #intro{
     margin-right: 10%;
@@ -47,6 +49,7 @@ button{
 }
 #second {
     background-color: white;
+    display: block;
 }
 #eat{
     margin-left: 60%;
