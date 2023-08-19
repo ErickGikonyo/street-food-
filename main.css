@@ -13,6 +13,18 @@ div {
     font-family: poppins;
 
 }
+#street{
+    color: rgb(6, 197, 6);
+}
+#food{
+    color: black;
+}
+#ex{
+    color: black;
+}
+#men{
+    color: #5fe213;
+}
 #al{
     height: 200px;
 }
