@@ -2,13 +2,21 @@ body {
     padding: 5%;
 }
 div {
-    border-radius: 5%;
-    border-color: black;
+    border-radius: 0%;
+    border-color:none;
     border-width:2px ;
-    border-style: dashed;
+    border-style: none;
     height: 50vh ;
     width:fit-content;
     padding: 5px;
+    color: #EAAB1B,#6CB840;
+    font-family: poppins;
+}
+#al{
+    height: 200px;
+}
+#all{
+    height: 200px;
 }
 #intro{
     margin-right: 10%;
@@ -21,6 +29,7 @@ button{
     height: 100;
     border-radius: 10px;
     border-color:rgb(24,202,24) ;
+    margin-right: 60%;
 }
 #menu{
     font-size: small;
@@ -38,6 +47,12 @@ button{
 }
 #second {
     background-color: white;
+}
+#eat{
+    margin-left: 60%;
+}
+#to{
+    margin-left: 60%;
 }
 #third {
     background-color: rgb(196, 181, 181);
