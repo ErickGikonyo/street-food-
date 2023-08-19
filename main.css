@@ -22,8 +22,8 @@ div {
     color: black;
 }
 #all{
-    height: 300px;
-    width: 300px;
+    height: 700px;
+    width: 700px;
     margin-right: 60%;
 }
 #eat{
@@ -53,12 +53,15 @@ button{
     color: rgb(7, 161, 7);
 }
 
-}
+
 #first{
-    background-color: rgb(194, 180, 180);
+    background-color: rgb(129, 129, 129);
     text-align: left;
     width: fit-content;
     height: fit-content;
+    margin-top: 100px;
+    margin-left: 20%;
+    
 
 
 }
@@ -70,6 +73,7 @@ button{
     display: block;
     width: fit-content;
     height: fit-content;
+    margin-top: 200px;
 }
 #eat{
     margin-left: 60%;
@@ -78,16 +82,22 @@ button{
     margin-left: 60%;
 }
 #third {
-    margin-top: 400px;
+    margin-top: 150px;
     background-color: rgb(196, 181, 181);
+    height:800px;
+    width: max-content;
+    margin-left: 35%;
+    display: grid;
 }
 #fourth {
     background-color: rgba(0, 128, 0, 0.322);
-    margin-top: 400px;
+    margin-top: 200px;
+    height: fit-content;
+    width: fit-content;
 }
 #five {
     background-color: antiquewhite;
-    margin-top: 400px;
+    margin-top: 200px;
 }
 #bp1{
     text-align: center;
@@ -110,9 +120,58 @@ margin-right: 60%;
 #b3{
     height: 80px;
     width: 100px;
-    margin-left: 60%;  
+    margin-right: 60%;  
 }
 #bp3{
     text-align: center;
-    margin-left: 60%;
+    margin-right: 60%;
+}
+#b4{
+    height: 80px;
+    width: 100px;
+    margin-right: 60%;   
+}
+#bp4{
+    text-align: center;
+    margin-right: 60%; 
+}
+h3{
+    margin:50%,50%,;
+    margin-left: 40%;
+}
+h4{
+    font-size: xx-large;
+    color:black, #6CB840;
+    margin-left: 40%;
+}
+#juice{
+    height: 200px;
+    width: 250px;
+    margin-right: 60%;
+}
+#s{
+    font-size: x-large;
+    color: #5fe213;
+    margin-left: 1%;
+}
+#hot{
+    color: black;
+}
+#deals{
+    color: #5fe213;
+}
+#b{
+    font-size: large;
+    color: black;
+    margin-left: 1%;
+}
+#f{
+    font-size: medium;
+    color: black;
+    margin-left: 1%;
+}
+#lemon{
+    font-size: small;
+    color: black;
+    margin-left: 70%;
 }
