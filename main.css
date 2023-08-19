@@ -110,6 +110,8 @@ button{
 #five {
     background-color: antiquewhite;
     margin-top: 200px;
+    width: fit-content;
+    height: fit-content;
 }
 #bp1{
     text-align: center;
@@ -186,4 +188,36 @@ h4{
     font-size: small;
     color: black;
     margin-left: 70%;
+}
+#des{
+    text-align: center;
+    margin-left: 20%;
+}
+#send{
+    background-color: #6CB840;
+    margin-top: 4px;
+    color: white;
+    height: 50px;
+    width: 80px;
+    border-color: #6CB840;
+}
+h5{
+    font-size: xx-large;
+    margin-left: 36%;
+}
+#con{
+    color: black;
+}
+#us{
+    color: #5fe213;
+}
+#footer{
+    background-color: azure;
+}
+#six{
+    margin-top: 200px;
+    width: fit-content;
+    height: fit-content;
+    background-color: #EAAB1B;
+    position: absolute;
 }
