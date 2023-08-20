@@ -13,6 +13,9 @@ div {
     font-family: poppins;
 
 }
+h1{
+    color: black;
+}
 #street{
     color: rgb(6, 197, 6);
 }
@@ -34,8 +37,8 @@ div {
     color: black;
 }
 #all{
-    height: 700px;
-    width: 700px;
+    height: 300px;
+    width: 500px;
     margin-right: 60%;
 }
 #eat{
@@ -45,10 +48,11 @@ div {
     margin-right: 15%;
     width: 700px;
     max-width:fit-content;
+    color: black;
     
 }
 button{
-    background-color: rgb(24, 202, 24);
+    background-color: #6CB840;
     color: white;
     width: 120px;
     height: 150;
@@ -59,33 +63,39 @@ button{
 #menu{
     font-size: 15px;
     font-weight: bold;
+    width: 100%;
+    font-size: 186%;
+    color: black;
 }
 #street{
-    font-size: x-large;
+    font-size: xx-large;
     color: rgb(7, 161, 7);
 }
-
+#food{
+    font-size: xx-large;
+    color: rgb(236, 144, 110);
+}
 
 #first{
-    background-color: rgb(129, 129, 129);
+    background-color: rgb(189, 183, 183);
     text-align: left;
-    width: fit-content;
+    width: 100%;
     height: fit-content;
-    margin-top: 100px;
-    margin-left: 20%;
+    color: black;
     
 
 
 }
 #images{
     margin-left: 60%;
+    margin-right: 30;
 }
 #second {
     background-color: white;
     display: block;
-    width: fit-content;
+    width: 100%;
     height: fit-content;
-    margin-top: 200px;
+
 }
 #eat{
     margin-left: 60%;
@@ -94,64 +104,63 @@ button{
     margin-left: 60%;
 }
 #third {
-    margin-top: 150px;
+
     background-color: rgb(196, 181, 181);
     height:800px;
-    width: max-content;
-    margin-left: 35%;
+    width: 100%;
     display: grid;
 }
 #fourth {
-    background-color: rgba(0, 128, 0, 0.322);
-    margin-top: 200px;
+    background-color: #C9ECB5;
+
     height: fit-content;
-    width: fit-content;
+    width: 100%;
 }
 #five {
-    background-color: antiquewhite;
-    margin-top: 200px;
-    width: fit-content;
+    background-color:#FFD77C;
+    width: 100%;
     height: fit-content;
 }
 #bp1{
     text-align: center;
-    margin-right: 60%;
+    margin-right: 80%;
 }
 #b1{
     height: 80px;
     width: 100px;
-    margin-right: 60%;
+    margin-right: 80%;
 }
 #b2{
     height: 80px;
     width: 100px;
-    margin-right: 60%;
+    margin-right: 80%;
 }
 #bp2{
     text-align: center;
-margin-right: 60%;
+margin-right: 80%;
 }
 #b3{
     height: 80px;
     width: 100px;
-    margin-right: 60%;  
+    margin-left: 80%;  
 }
 #bp3{
     text-align: center;
-    margin-right: 60%;
+    margin-left: 80%;
 }
 #b4{
     height: 80px;
     width: 100px;
-    margin-right: 60%;   
+    margin-left: 80%;   
 }
 #bp4{
     text-align: center;
-    margin-right: 60%; 
+    margin-left: 80%; 
 }
 h3{
-    margin:50%,50%,;
     margin-left: 40%;
+    margin-right: 40%;
+    font-size: xx-large;
 }
 h4{
     font-size: xx-large;
@@ -191,19 +200,21 @@ h4{
 }
 #des{
     text-align: center;
-    margin-left: 20%;
+    margin-left: 38%;
+    margin-right: 30%;
 }
 #send{
     background-color: #6CB840;
     margin-top: 4px;
     color: white;
-    height: 50px;
-    width: 80px;
+    height: 40px;
+    width: 100px;
     border-color: #6CB840;
+    margin-left: 45%;
 }
 h5{
     font-size: xx-large;
-    margin-left: 36%;
+    margin-left: 38%;
 }
 #con{
     color: black;
@@ -215,9 +226,41 @@ h5{
     background-color: azure;
 }
 #six{
-    margin-top: 200px;
-    width: fit-content;
+    width: 100%;
     height: fit-content;
-    background-color: #EAAB1B;
+    background-color:#C9ECB5;
     position: absolute;
+    border-radius: 10px;
+    border-color: black;
+}
+#follow{
+    margin-left: 60%;
+}
+#fo{
+    margin-left: 60%;
+}
+#se{
+    margin-left: 80%;
+    height: 50;
+    width: 100px;
+}
+#web{
+    margin-left: 60%;
+}
+#news{
+    margin-left: 60%;
+}
+#add{
+    margin-left: 30%;
+}
+#tn{
+    margin-left: 30%;
+}
+#day{
+    margin-top: 10px;
+}
+#email{
+    margin-left: 36%;
+    border-radius: 5px;
+    width: 300px;
 }
