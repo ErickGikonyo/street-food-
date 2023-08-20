@@ -76,6 +76,7 @@ button{
     color: rgb(236, 144, 110);
 }
 
+
 #first{
     background-color: rgb(189, 183, 183);
     text-align: left;
@@ -87,8 +88,16 @@ button{
 
 }
 #images{
+    .ellipse{
+        background-color: #649549;
+        border-color:greenyellow;
+        border-radius: 3px;
+        margin-right: 60%;
+    
+    }
     margin-left: 60%;
     margin-right: 30;
+
 }
 #second {
     background-color: white;
@@ -124,6 +133,8 @@ button{
 #bp1{
     text-align: center;
     margin-right: 80%;
+    background-color: white;
+    border-radius: 10px;
 }
 #b1{
     height: 80px;
@@ -138,6 +149,8 @@ button{
 #bp2{
     text-align: center;
 margin-right: 80%;
+background-color: white;
+border-radius: 10px;
 }
 #b3{
     height: 80px;
@@ -147,6 +160,8 @@ margin-right: 80%;
 #bp3{
     text-align: center;
     margin-left: 80%;
+    background-color: white;
+    border-radius: 10px;
 }
 #b4{
     height: 80px;
@@ -156,6 +171,8 @@ margin-right: 80%;
 #bp4{
     text-align: center;
     margin-left: 80%; 
+    background-color: white;
+    border-radius: 10px;
 }
 h3{
     margin-left: 40%;
