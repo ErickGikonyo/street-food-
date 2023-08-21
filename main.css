@@ -88,6 +88,10 @@ button{
 
 }
 #images{
+    height: 50px;
+    width: 100px;
+    margin-left: 60%;
+    margin-right: 30;
     .ellipse{
         background-color: #649549;
         border-color:greenyellow;
@@ -95,8 +99,7 @@ button{
         margin-right: 60%;
     
     }
-    margin-left: 60%;
-    margin-right: 30;
+   
 
 }
 #second {
