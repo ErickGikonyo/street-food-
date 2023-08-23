@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+
+}
+td{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+button{
+    padding: 15px 15px;
+    border-radius: 8px;
+    background-color: red;
+    transition: 0.5s;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+button:hover{
+    background-color: orange;
+    transform: scale(110%);
+    transition: 0.5s;
+}
+img{
+    transition: 0.8s;
+}
+img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.text{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+}
+.text:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+table{
+    border-color: brown;
+    
+}
