@@ -87,16 +87,21 @@ button{
 
 
 }
-#images{
-    height: 50px;
-    width: 100px;
-    margin-left: 60%;
-    margin-right: 30;
+
     .ellipse{
         background-color: #649549;
         border-color:greenyellow;
         border-radius: 3px;
         margin-right: 60%;
+        height: 60%;
+        width: 50%;
+}
+#images{
+    height: 50px;
+    width: 100px;
+    margin-left: 60%;
+    margin-right: 30;
+    
     
     }
    
