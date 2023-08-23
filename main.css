@@ -87,14 +87,40 @@ button{
 
 
 }
+#home{
+    color: black;
+}
+#our{
+    color: black;
+}
+#happy{
+    color: black;
+}
+#con{
+    color: black;
+}
+#ga{
+    color: black;
+}
+#res{
+    color: black;
+}
+#cat{
+    color: black;
+}
+#fod{
+    color: black; 
+}
 
-    .ellipse{
+    .eclipse
+    {
         background-color: #649549;
         border-color:greenyellow;
-        border-radius: 3px;
-        margin-right: 60%;
-        height: 60%;
-        width: 50%;
+        border-radius: 300px;
+        margin-right: 20%;
+        height: 600px;
+        width: 500px;
+        border-width: 50%
 }
 #images{
     height: 50px;
